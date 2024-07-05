@@ -1,1 +1,2 @@
 # tlc
+This project presents the design and implementation of a Traffic Light Controller (TLC) using Verilog Hardware Description Language (HDL). The controller is engineered to manage the traffic signals at a typical four-way intersection, ensuring efficient and safe traffic flow. Utilizing a finite state machine (FSM) approach, the controller transitions between the traffic light phases for the main road and the side road, covering green, yellow, and red signals.
